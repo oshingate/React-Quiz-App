@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import _ from 'lodash';
-import { NavLink } from 'react-router-dom';
 
 class Quiz extends Component {
   constructor(props) {
